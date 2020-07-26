@@ -18,7 +18,7 @@ after_success:
  - docker push anusha1903/multi-client
  - docker push anusha1903/multi-server
  - docker push anusha1903/multi-worker
- - docker push sankethns/multi-nginx
+ - docker push anusha1903/multi-nginx
 
 
 
